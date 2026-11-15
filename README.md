@@ -1,16 +1,20 @@
-## Hi there 👋
+# Muhammad Omer
 
-<!--
-**itsomer12/itsomer12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**IT Infrastructure & Networking · Application Development**
 
-Here are some ideas to get you started:
+I support IT infrastructure and build applications for day-to-day operations. At Salsoft Technologies, I troubleshoot system and network connectivity issues and assist with Windows Server and Active Directory administration. At Lahore Waste Management Company (LWMC), I develop internal applications with Python, Django, and PostgreSQL and work with Linux, Docker, and AWS on application projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected projects
+
+- [**Suthra Punjab e-Challan**](https://github.com/itsomer12/sutharapunjab-echallan) · A full-stack e-Challan system with workflows for inspectors and administrators. Built with Next.js, TypeScript, Prisma, and PostgreSQL.
+- [**LedgerLens**](https://github.com/itsomer12/ledgerlens) · A mobile application project built with Flutter and Dart.
+
+## Tools and technologies
+
+| Area | Tools and technologies |
+| --- | --- |
+| Infrastructure and support | Windows Server, Active Directory, Linux, network troubleshooting |
+| Application development | Python, Django, TypeScript, Next.js, PostgreSQL, Flutter, Dart |
+| Cloud and delivery | AWS, Docker, Git, GitHub |
+
+[LinkedIn](https://www.linkedin.com/in/omer-data-science/) · [Portfolio](https://m-omer-portfolio.vercel.app/)
